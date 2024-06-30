@@ -87,8 +87,11 @@ En las consultas de mayor dificultad se redirigen a una persona con la que
 
 <img src="descarga.jpg" width="300px" height="200px">
 	<br></br>
-	<img src="inTeligenciaartificial.jpg" width="300px" height="200px">
+	<img src="descarga1.jpg" width="300px" height="200px">
 	<br>
 	<img src="inteligenciaArtificial.jpg" width="300px" height="200px">
 	<br>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ToghuyAKFhE?si=2RMm1Zfbu0jTVUeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</body>
+</html>

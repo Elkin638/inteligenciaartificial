@@ -1,4 +1,5 @@
 
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -10,29 +11,20 @@
 <center>
 <h1>
 	<h1>Inteligencia Artificial</h1>
-</font> 
-</h1> 
-</center>
-<pre>
+	
 	<p align="left">
-	<font>La inteligencia artificial (IA) es la base a partir de la cual se imitan los procesos de inteligencia humana mediante la creación y la aplicación de algoritmos creados en un entorno dinámico de computación. O bien, dicho de forma sencilla, la IA consiste en intentar que los ordenadores piensen y actúen como los humanos.</font> 
-</font>
- </p>
-<pre>
-</pre>
+	<p>La inteligencia artificial (IA) es la base a partir de la cual se imitan los procesos de inteligencia humana mediante la creación y la aplicación de algoritmos creados en un entorno dinámico de computación. O bien, dicho de forma sencilla, la IA consiste en intentar que los ordenadores piensen y actúen como los humanos.</p> 
+
 <p align="center">
 <p> Para conseguirlo, se necesitan tres componentes fundamentales
-Sistemas <b>computacionales
- Datos y gestión</b> de los </stong>mismos
+Sistemascomputacionales
+Datos y gestión de los </stong>mismos
   Algoritmos de IA </strong>avanzados (código) 
-Cuanto mayor sea el parecido al comportamiento humano que queremos conseguir, más datos y capacidad de procesamiento se necesitará.</font>
-</font>
- </p>
-<pre>
-</pre>
-	<h2>La Innteligencia Articial y su Importancia </h2>
-	<p align="left">
-	<font size="5">Hoy en día, la cantidad 
+Cuanto mayor sea el parecido al comportamiento humano que queremos conseguir, más datos y capacidad de procesamiento se necesitará.</p>
+	
+<h2>La Innteligencia Articial y su Importancia </h2>
+	
+	<p align="left">Hoy en día, la cantidad 
 	de datos que se genera, tanto por parte
 	 de los humanos como por parte de 
 	las máquinas, supera en gran medida 
@@ -42,12 +34,8 @@ complejas basadas en esos datos.
 La inteligencia artificial supone
  la base de todo el aprendizaje automático
   y el futuro de todos los procesos 
-complejos de toma de decisiones</font>
-</font>
- </p>
-<pre>
-</pre>
-<p align="center">
+complejos de toma de decisiones</p>
+
 	<h3>Casos en que se puede emplear la
 	 Inteligencia Artificial</h3>
 
@@ -73,24 +61,24 @@ complejos de toma de decisiones</font>
 	      las transacciones de tarjeta 
 	      fraudulentas al realizar los
 	       pagos en tiempo real se necesitan motores de IA más avanzados.
-    <p align="center">
-     <font size="5">Los centros de llamadas usan VCA para predecir y responder a las consultas de los clientes   
+     <p align="left">Los centros de llamadas usan VCA para predecir y responder a las consultas de los clientes   
      sin interacción humana.El reconocimiento de voz,junto con un diálogo humano simulado, 
  es el primer punto de interacciónen una consulta servicio al cliente. 
 En las consultas de mayor dificultad se redirigen a una persona con la que
- se pueda interactuar directamente</font>
- 
+ se pueda interactuar directamente</p>
 
-	<a target="_blank"href="file:///D:/deber%20para%20diseño/RealidadAumentada.html">Ir a RealidadAumentada</a>
-	<a target="_blank"href="file:///D:/deber%20para%20diseño/RealidadVirtual.html">Ir a Realidad Virtual</a>
+	<a target="_blank"href="file:///D:/deber%20para%20diseño/imagenes2/RealidadAumentada.html">Ir a RealidadAumentada</a>
+	<a target="_blank"href="file:///D:/deber%20para%20diseño/imagenes3/RealidadVirtual.html">Ir a Realidad Virtual</a>
 
-
-<img src="descarga.jpg" width="300px" height="200px">
+	
+	<img src="descarga.jpg" width="300px" height="200px">
 	<br></br>
 	<img src="descarga1.jpg" width="300px" height="200px">
 	<br>
 	<img src="inteligenciaartificial.jpg" width="300px" height="200px">
 	<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ToghuyAKFhE?si=2RMm1Zfbu0jTVUeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/ToghuyAKFhE?si=2RMm1Zfbu0jTVUeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 </body>
 </html>
